@@ -71,7 +71,7 @@
     <%--<script type="text/javascript" src="<%=AppPath %>/js/catalog.js?v=1.3.2018"></script>--%>
     <script type="text/javascript" src="<%=AppPath %>/js/th.js?v=1.4"></script>    
     
-<form id="th1" runat="server">
+<form id="th12" runat="server">
 
     <div id="header">
      <div class="container">
